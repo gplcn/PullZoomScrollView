@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.gpl.pullzoomscrollview.view.PullZoomScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#b0b0b0">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:scaleType="centerCrop"
+            android:src="@drawable/bg1" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/dimens_6"
+            android:scaleType="centerCrop"
+            android:src="@drawable/bg2" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/dimens_6"
+            android:scaleType="centerCrop"
+            android:src="@drawable/bg2" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/dimens_6"
+            android:scaleType="centerCrop"
+            android:src="@drawable/bg2" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/dimens_6"
+            android:scaleType="centerCrop"
+            android:src="@drawable/bg2" />
+
+
+    </LinearLayout>
+</com.gpl.pullzoomscrollview.view.PullZoomScrollView>
