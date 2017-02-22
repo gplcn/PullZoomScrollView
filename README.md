@@ -5,3 +5,4 @@ demo
 ![image](https://github.com/gplcn/PullZoomScrollView/blob/develop/GIF/01.gif =200x300)
 项目应用
 ![image](https://github.com/gplcn/PullZoomScrollView/blob/develop/GIF/02.gif =200x300)
+ 
