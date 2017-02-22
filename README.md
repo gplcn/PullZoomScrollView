@@ -6,5 +6,6 @@
 ![image](https://github.com/gplcn/PullZoomScrollView/blob/master/GIF/01.gif )
 
   项目应用
+  
 ![image](https://github.com/gplcn/PullZoomScrollView/blob/master/GIF/02.gif )
  
